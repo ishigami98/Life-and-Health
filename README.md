@@ -10,6 +10,11 @@ Este es el proyecto final del curso de Medio Ambiente, desarrollado para crear u
 
 - **index.html**: Archivo principal que contiene la estructura de la página web.
 - **estilos.css**: Archivo de estilos CSS que define el diseño y la apariencia del sitio web.
+- **masdetalles.html**: Archivo que contiene la sesión de "más detalles" de la página.
+- **vermas1.html**: Archivo que contiene la sesión de "vermas" de la página.
+- **vermas2.html**: Archivo que contiene la sesión de "vermas" de la página.
+- **vermas3.html**: Archivo que contiene la sesión de "vermas" de la página.
+- **imagenes**: Carpeta donde se encuentra las imágenes utilizadas
 
 ### Secciones del Sitio Web
 
@@ -31,7 +36,7 @@ Para ver el proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/life-and-health.git
+   git clone https://github.com/ishigami98/life-and-health.git
    ```
 2. Navega hasta el directorio del proyecto:
    ```bash
