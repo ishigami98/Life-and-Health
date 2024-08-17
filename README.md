@@ -14,7 +14,7 @@ Este es el proyecto final del curso de Medio Ambiente, desarrollado para crear u
 - **vermas1.html**: Archivo que contiene la sesión de "vermas" de la página.
 - **vermas2.html**: Archivo que contiene la sesión de "vermas" de la página.
 - **vermas3.html**: Archivo que contiene la sesión de "vermas" de la página.
-- **imagenes**: Carpeta donde se encuentra las imágenes utilizadas
+- **imagen**: Carpeta donde se encuentra las imágenes utilizadas
 
 ### Secciones del Sitio Web
 
