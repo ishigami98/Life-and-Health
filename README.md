@@ -36,11 +36,11 @@ Para ver el proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/ishigami98/life-and-health.git
+   git clone https://github.com/ishigami98/Life-and-Health.git
    ```
 2. Navega hasta el directorio del proyecto:
    ```bash
-   cd life-and-health
+   cd Life-and-Health
    ```
 3. Abre el archivo `index.html` en tu navegador web favorito.
 
